@@ -1,0 +1,9 @@
+.navbar {
+    background-color: var(--t-primary);
+}
+
+/* .navbar-complete {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */

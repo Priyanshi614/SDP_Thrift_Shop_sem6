@@ -1,0 +1,12 @@
+.filter-dropdown {
+    font-size: larger;
+    background-color: var(--t-primary);
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+
+.filter-dropdown-items {
+    background-color: var(--t-primary);
+    color: lightgrey;
+}
+

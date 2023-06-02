@@ -1,0 +1,36 @@
+.login-btn-btn {
+    width: fit-content;
+    border-radius: 10px;
+    margin-top: 1rem;
+    background-color: var(--t-primary);
+    color: white;
+}
+
+.formFlex {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.register-btn-btn {
+    width: fit-content;
+    border-radius: 10px;
+    margin-top: 1rem;
+    background-color: white;
+    color: var(--t-primary);
+    border: 1px solid var(--t-primary);
+    margin-left: 1rem;
+}
+
+.login-btn {
+    width: 300px;
+}
+
+.login-title {
+    text-align: center;
+    color: var(--t-primary);
+}
+
+input {
+    margin: 1rem;
+}
